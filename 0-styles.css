@@ -1,0 +1,16 @@
+.header {
+    align-items: center;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    gap: 584px;
+    height: 32px;
+    justify-content: flex-start;
+    left: 201px;
+    min-width: 1000px;
+    position: absolute;
+    top: 28px;
+    width: auto;
+
+}
+
